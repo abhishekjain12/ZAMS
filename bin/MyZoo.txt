@@ -1,0 +1,39 @@
+Kathleen’s Zoo
+Premium Enclosure
+African Safari
+Mike Waston
+9am
+6pm
+15.00
+Elephant
+400
+Elephant
+350
+Zebra
+150
+Giraffe
+100
+End-enclosure
+Standard Enclosure
+Standard Australian
+Rick Johnson
+5am
+9pm
+10.00
+Wombat
+70
+Echidna
+3
+End-enclosure
+Nocturnal Enclosure
+Nocturnal
+Donald Turnball
+12am
+5pm
+8.00
+Snake
+2
+Frilled Neck Lizard
+0.8
+End-enclosure
+END

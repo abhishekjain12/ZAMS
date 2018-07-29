@@ -1,0 +1,64 @@
+Kathleen's Zoo
+African Safari Enclosure
+Elephant
+Ellie
+0123110
+400kg
+Up-to-date
+3 years
+Open range
+Elephant
+Edward
+01231102
+350kg
+Due
+0.5 years
+Open range
+Zebra
+Zoolah
+0120021
+150kg
+Up-to-date
+1 years
+Open range
+Giraffe
+Gerry
+0249901
+100kg
+Up-to-date
+5 years
+open range
+End-enclosure
+Standard Australian Enclosure
+Wombat
+William
+0112232
+70kg
+Up-to-date
+1 year
+inside
+Echidna
+Ellie
+0112245
+3kg
+n/a
+3 years
+inside
+End-enclosure
+Nocturnal Enclosure
+Snake
+Sally
+0023114
+2kg
+n/a
+1.5 years
+inside
+Frilled Neck Lizard
+Freddy
+0024153
+.8kg
+n/a
+2 years
+inside
+End-enclosure
+END
